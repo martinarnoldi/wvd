@@ -61,7 +61,7 @@
 			 "identity": {
     "type": "UserAssigned",
           "userAssignedIdentities": {
-            "<imgBuilderId>": {}
+            "cf32a0cc-373c-47c9-9156-0db11f6a6dfc": {}
               
         }
         },
